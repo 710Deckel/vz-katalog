@@ -1,0 +1,110 @@
+[
+  {
+    "id": "101",
+    "name": "Gefahrstelle",
+    "category": "Gefahrzeichen",
+    "description": "Allgemeine Warnung vor einer Gefahrenstelle, deren Art nicht durch ein spezielles Sinnbild angezeigt wird."
+  },
+  {
+    "id": "101-10",
+    "name": "Gefahrstelle (Variante 10)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-11",
+    "name": "Gefahrstelle (Variante 11)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-12",
+    "name": "Gefahrstelle (Variante 12)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-13",
+    "name": "Gefahrstelle (Variante 13)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-14",
+    "name": "Gefahrstelle (Variante 14)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-15",
+    "name": "Gefahrstelle (Variante 15)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-20",
+    "name": "Gefahrstelle (Variante 20)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-21",
+    "name": "Gefahrstelle (Variante 21)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-22",
+    "name": "Gefahrstelle (Variante 22)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-23",
+    "name": "Gefahrstelle (Variante 23)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-24",
+    "name": "Gefahrstelle (Variante 24)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-25",
+    "name": "Gefahrstelle (Variante 25)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-51",
+    "name": "Gefahrstelle (Variante 51)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "101-52",
+    "name": "Gefahrstelle (Variante 52)",
+    "category": "Gefahrzeichen",
+    "description": "Spezielle Ausführung der allgemeinen Gefahrstelle."
+  },
+  {
+    "id": "205",
+    "name": "Vorfahrt gewähren",
+    "category": "Vorschriftzeichen",
+    "description": "An dieser Stelle muss Vorfahrt gewährt werden."
+  },
+  {
+    "id": "206",
+    "name": "Halt! Vorfahrt gewähren",
+    "category": "Vorschriftzeichen",
+    "description": "Stoppschild. Anhalten ist Pflicht!"
+  },
+  {
+    "id": "314-30",
+    "name": "Parkplatz Ende",
+    "category": "Richtzeichen",
+    "description": "Hier endet die Parkerlaubnis."
+  }
+]
